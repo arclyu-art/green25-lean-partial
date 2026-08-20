@@ -285,6 +285,16 @@ Lean verifies the implication expressed by the frozen statement. It does not ver
 the intended interpretation of Green's question, that the construction is new, or that it is
 significant enough for publication.
 
+### AI assistance disclosure
+
+This project was developed with substantial assistance from OpenAI Codex. AI assistance included
+literature triage, exploration and criticism of proof candidates, counterexample searches, drafting
+and debugging Lean code, and editing the technical exposition. AI-generated output was not treated
+as mathematical or bibliographic authority. The frozen theorem was checked by the Lean kernel, but
+its interpretation, novelty, significance, and any eventual publication claim still require human
+review. Responsibility for the statement, sources, and public claims rests with the human author;
+the AI system is not an author.
+
 ## 6. Method boundary
 
 MacWilliams' identity implies that every (m)-dimensional binary linear code satisfies

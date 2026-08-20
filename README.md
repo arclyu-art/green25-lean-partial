@@ -46,6 +46,16 @@ The project builds with Lean 4.32.1 and mathlib 4.32.1, with no `sorry`, `admit`
 - Lean does not establish novelty, significance, or faithfulness to the intended literature context.
 - The repository should not be cited as a solved open problem.
 
+## AI assistance disclosure
+
+This project was developed with substantial assistance from OpenAI Codex. AI assistance included
+literature triage, exploration and criticism of proof candidates, counterexample searches, drafting
+and debugging Lean code, and editing the technical exposition. AI-generated output was not treated
+as mathematical or bibliographic authority. The frozen theorem was checked by the Lean kernel, but
+its interpretation, novelty, significance, and any eventual publication claim still require human
+review. Responsibility for the statement, sources, and public claims rests with the human author;
+the AI system is not an author.
+
 ## Contents
 
 - `Green25/`: Lean proof modules.
